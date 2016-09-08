@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BookWorld</string>
+    <string name="find_book">Find Book!</string>
+    <string name="books"></string>
+    <string-array name="book_genres">
+        <item>fiction</item>
+        <item>non-fiction</item>
+        <item>horror</item>
+        <item>drama</item>
+    </string-array>
+</resources>
